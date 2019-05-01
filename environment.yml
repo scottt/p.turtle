@@ -1,0 +1,5 @@
+name: programming-for-creatives
+channels:
+  - conda-forge
+dependencies:
+  - nodejs=10.15.3
